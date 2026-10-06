@@ -2,6 +2,8 @@
 
 A lightweight, standalone FiveM resource that allows players to flash their vehicle's high beams.
 
+![Preview](preview.gif)
+
 ---
 
 ## ✨ Features
